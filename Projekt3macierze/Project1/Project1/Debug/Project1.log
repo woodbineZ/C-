@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\jakub\documents\studia\programowanie w c++\4 semestr 2019\solver.h(47): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  c:\users\jakub\documents\studia\programowanie w c++\4 semestr 2019\solver.h(40): note: podczas kompilowania funkcji członkowskiej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\jakub\documents\studia\programowanie w c++\4 semestr 2019\macierz.h(219): note: zobacz odwołanie do funkcji szablon; wystąpienie „void Solver<Z>::rozwiaz(void)” jest kompilowane
+          with
+          [
+              Z=float
+          ]
+  c:\users\jakub\documents\studia\programowanie w c++\4 semestr 2019\macierz.h(218): note: zobacz odwołanie do klasy klasa szablon; wystąpienie „Solver<Z>” jest kompilowane
+          with
+          [
+              Z=float
+          ]
+  c:\users\jakub\documents\studia\programowanie w c++\4 semestr 2019\main.cpp(73): note: zobacz odwołanie do funkcji szablon; wystąpienie „void rozwiazMacierz<float>(std::ifstream &)” jest kompilowane
+c:\users\jakub\documents\studia\programowanie w c++\4 semestr 2019\solver.h(53): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  Generowanie kodu...
+  Trwa kompilowanie...
+  Solver.cpp
+  Macierz.cpp
+  Generowanie kodu...
+  Project1.vcxproj -> C:\Users\Jakub\Documents\Studia\programowanie w c++\4 semestr 2019\Projekt3macierze\Project1\Debug\Project1.exe
